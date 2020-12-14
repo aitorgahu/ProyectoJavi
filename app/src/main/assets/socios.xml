@@ -1,0 +1,26 @@
+<clientes>
+	<partners>
+		<nombre>Hodei</nombre>
+		<apellido>Aguirre</apellido>
+		<empresa>The Draft</empresa>
+		<email>hodeiaguirre727@gmail.com</email>
+		<tfno>645785123</tfno>
+		<imagen>0</imagen>
+	</partners>
+	<partners>
+		<nombre>Imanol</nombre>
+		<apellido>Bodero</apellido>
+		<empresa>Upper Pass</empresa>
+		<email>imanolbodero@gmail.com</email>
+		<tfno>678125964</tfno>
+		<imagen>0</imagen>
+	</partners>
+	<partners>
+		<nombre>Jon</nombre>
+		<apellido>Castander</apellido>
+		<empresa>Pistacho</empresa>
+		<email>castanderjon@gmail.com</email>
+		<tfno>685735193</tfno>
+		<imagen>0</imagen>
+	</partners>
+</clientes>
